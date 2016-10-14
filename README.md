@@ -6,10 +6,10 @@ in the future. We will also use numpy to read data from a file.
    
 ## Sections
 
- - [Problem 1: Creating basic geometries](#Problem-1-creating-basic-geometries)
- - [Problem 2: Attributes of geometries](#Problem-2-attributes-of-geometries)
- - [Problem 3: Reading coordinates from a file and creating a geometries](#Problem-3-Reading-coordinates-from-a-file-and-creating-a-geometries) 
- - [Problem 4 (optional): Creating LineStrings that represent the movements](#Problem-4-Creating-LineStrings-that-represent-the-movements-optional-task-for-advanced-students)
+ - [Problem 1: Creating basic geometries](#problem-1-creating-basic-geometries)
+ - [Problem 2: Attributes of geometries](#problem-2-attributes-of-geometries)
+ - [Problem 3: Reading coordinates from a file and creating a geometries](#problem-3-Reading-coordinates-from-a-file-and-creating-a-geometries) 
+ - [Problem 4 (optional): Creating LineStrings that represent the movements](#problem-4-Creating-LineStrings-that-represent-the-movements-optional-task-for-advanced-students)
 
 ## Problem 1: Creating basic geometries
 
