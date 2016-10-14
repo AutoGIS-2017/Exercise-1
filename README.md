@@ -83,4 +83,3 @@ This is an optional extra task for those who likes to learn even more. Write you
 3. Add that line into the lines -list.
 4. Find out what is the average (Euclidian) distance of all the origin-destination LineStrings that we just created, and print it out.
 5. To make things more reusable: write creation of the LineString and calculating the average distance into dedicated functions and use them.  
-
