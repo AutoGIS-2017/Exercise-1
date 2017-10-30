@@ -3,7 +3,15 @@
 This week we will practice how to create geometric objects using Shapely module and how to find out different useful attributes from those geometries.
 We will also take advantage of what we have learned earlier, specifically functions, that you should use for making different GIS operations easier to use 
 in the future. We will also use numpy to read data from a file.
-   
+
+### Due dates
+ 
+ - 100 % of point total if you return your solution within 1 week (due date 7.11.2016)
+ - 85 % of point total if your return your solution within 2 weeks (due date 14.11.2016) 
+   - Detailed hints provided
+ - 50 % of point total if you return your solution within 3 weeks (due date 21.11.2016)
+   - Full solution provided
+
 ## Sections
 
  - [Problem 1: Creating basic geometries](#problem-1-creating-basic-geometries)
