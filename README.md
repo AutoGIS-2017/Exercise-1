@@ -2,15 +2,13 @@
 
 This week we will practice how to create geometric objects using Shapely module and how to find out different useful attributes from those geometries.
 We will also take advantage of what we have learned earlier, specifically functions, that you should use for making different GIS operations easier to use 
-in the future. We will also use numpy to read data from a file.
+in the future. We will also use Pandas to read data from a file.
 
-### Due dates
- 
- - 100 % of point total if you return your solution within 1 week (due date 7.11.2016)
- - 85 % of point total if your return your solution within 2 weeks (due date 14.11.2016) 
-   - Detailed hints provided
- - 50 % of point total if you return your solution within 3 weeks (due date 21.11.2016)
-   - Full solution provided
+- **Exercise 1 is due by the start of lecture on 6.11**.
+
+- Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/2017/lessons/L1/exercise-1-hints.html) if you're having trouble.
+
+- Scores on this exercise are out of **20 points**.
 
 ## Sections
 
@@ -78,7 +76,7 @@ Thus, we have many columns of data, but the few important ones are:
 ### Tasks
 
 1. Save the [travelTimes_2015_Helsinki.txt](data/travelTimes_2015_Helsinki.txt) into your computer.
-2. Read 4 columns, i.e. 'from_x', 'from_y', 'to_x', 'to_y' from the data into Python using numpy. 
+2. Read 4 columns, i.e. 'from_x', 'from_y', 'to_x', 'to_y' from the data into Python using Pandas.
 3. Create two lists called `orig_points` and `dest_points`
 4. Iterate over the rows of your numpy array and add Shapely Point -objects into the orig_points -list and dest_point -list representing the origin 
 locations and destination locations accordingly.
