@@ -78,7 +78,7 @@ Thus, we have many columns of data, but the few important ones are:
 1. Save the [travelTimes_2015_Helsinki.txt](data/travelTimes_2015_Helsinki.txt) into your computer.
 2. Read 4 columns, i.e. 'from_x', 'from_y', 'to_x', 'to_y' from the data into Python using Pandas.
 3. Create two lists called `orig_points` and `dest_points`
-4. Iterate over the rows of your numpy array and add Shapely Point -objects into the orig_points -list and dest_point -list representing the origin 
+4. Iterate over the rows of your DataFrame and add Shapely Point -objects into the orig_points -list and dest_point -list representing the origin 
 locations and destination locations accordingly.
 
 ## Problem 4: Creating LineStrings that represent the movements (optional task for advanced students):
